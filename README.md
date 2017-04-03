@@ -19,3 +19,10 @@ xdt(options,function(error){
 	//....
 });
 ```
+
+
+
+https://www.nuget.org/packages/Microsoft.Web.Xdt/
+https://www.nuget.org/packages/WebConfigTransformRunner/1.0.0.1
+https://github.com/erichexter/WebConfigTransformRunner
+
